@@ -94,6 +94,11 @@ body {
     font-weight: lighter;
 }
 
+.hero .hero-button {
+    top: 10px;
+    bottom: 10px;
+}
+
 .main-content{
     margin: 50px 300px;
 }
